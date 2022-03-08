@@ -1,0 +1,3 @@
+# Sveika Pasaule
+
+Izmēģinām GitHUB
