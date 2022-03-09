@@ -1,3 +1,3 @@
-# Sveika Pasaule
+# Lens un ātrs
 
-Izmēģinām GitHUB
+ben
